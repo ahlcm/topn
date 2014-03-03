@@ -30,7 +30,6 @@
 </head><body>
 <?php
 require_once 'bootstrap.php';
-
 require 'client/templates/open-deal-dialog.phtml';
 ?>
 </body>
